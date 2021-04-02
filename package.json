@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "formidable": "^1.2.2",
     "next": "10.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
